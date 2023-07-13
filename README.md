@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif)
+![MasterHead](https://digiday.com/wp-content/uploads/sites/3/2015/06/DonkeyKong-banner2.gif)
 
 <h1 align="center">Hi 👋, I'm Christopher Diggs</h1>
 <h3 align="center">A passionate frontend developer from Tulsa OK.</h3>
