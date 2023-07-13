@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Diggs</h1>
 <h3 align="center">A passionate frontend developer from Tulsa OK.</h3>
+<img align="right" alt="Coding" width="400" src= https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt>
 
 - 🌱 I’m currently learning **Python, Html, Docker, MySQL**
 
