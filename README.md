@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Christopher Diggs</h1>
 <h3 align="center">A passionate frontend developer from Tulsa OK.</h3>
-<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
-
+<img align="right" alt="Coding" width="400" src= https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5f21b0116171571.605c7e276e2d6.gif>
 
 - 🌱 I’m currently learning **Python, Html, Docker, MySQL**
 
